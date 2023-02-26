@@ -10,7 +10,7 @@
 # Información general 
 ***
 
-:key: Este repositorio contiene nuestro proyecto 
+:key: Este repositorio contiene nuestro proyecto Data datos, en el cual se describe  perfil de un/una analista de datos, el mercado de trabajo de la ciencia de datos y las herramientas más cotizadas en el sector.
 
 ## Archivos :
 ***
